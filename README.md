@@ -1,4 +1,4 @@
-# Jason Chen
+# Sudoku Solver
 
 A program that solves sudokus using the GSAT and walkSAT algorithms. Algorithm in **SAT.py**.
 
