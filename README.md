@@ -1,6 +1,6 @@
 # Jason Chen
-## CS76 Fall21
-## PA 5
+
+A program that solves sudokus using the GSAT and walkSAT algorithms. Algorithm in **SAT.py**.
 
 ### Usage
 To run tests, enter in terminal `python3 solve_sudoku.py /tests/[puzzle].cnf`, where "puzzle" is the name of the puzzle.
